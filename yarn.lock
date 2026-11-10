@@ -1580,6 +1580,10 @@ babel-plugin-macros@^3.1.0:
     cosmiconfig "^7.0.0"
     resolve "^1.19.0"
 
+"baianol@file:../../Downloads/baianol/baianol-1.0.1.tgz":
+  version "1.0.1"
+  resolved "file:../../Downloads/baianol/baianol-1.0.1.tgz#d645ec542dbeb217cf848b67e1bc576717750b3b"
+
 balanced-match@^4.0.2:
   version "4.0.4"
   resolved "https://registry.npmjs.org/balanced-match/-/balanced-match-4.0.4.tgz#bfb10662feed8196a2c62e7c68e17720c274179a"

@@ -1,10 +1,13 @@
+import { Route, Routes } from "react-router-dom";
 import Home from "./components/Home";
+import Exemplos from "./components/Exemplos";
 
 function App() {
   return (
-    <>
-      <Home />
-    </>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/exemplos" element={<Exemplos />} />
+    </Routes>
   );
 }
 
