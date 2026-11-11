@@ -12,7 +12,7 @@
   "dependencies": {
     "@chakra-ui/react": "3.38.0",
     "@emotion/react": "11.14.0",
-    "baianol": "file:src/pack/baianol-1.0.1.tgz",
+    "baianol": "file:src/pack/baianol",
     "next-themes": "0.4.6",
     "react": "19.3.1",
     "react-dom": "19.3.1",

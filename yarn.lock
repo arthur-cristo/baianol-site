@@ -1635,9 +1635,8 @@ babel-plugin-macros@^3.1.0:
     cosmiconfig "^7.0.0"
     resolve "^1.19.0"
 
-"baianol@file:src/pack/baianol-1.0.1.tgz":
+"baianol@file:src/pack/baianol":
   version "1.0.1"
-  resolved "file:src/pack/baianol-1.0.1.tgz.tgz#d645ec542dbeb217cf848b67e1bc576717750b3b"
 
 balanced-match@^4.0.2:
   version "4.0.4"
