@@ -8,4 +8,5 @@ export default defineConfig({
     tsconfigPaths: true,
   },
   base: "/baianol-site/",
+  worker: { format: "es" },
 });
