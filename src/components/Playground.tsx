@@ -17,7 +17,7 @@ const LIMITE_MS = 3000;
 const inicial = `colé
 
 // Escreva seu código e aperte Ctrl+Enter
-por_vida nome = "meu rei"
+por_vida nome = "Maria"
 
 trocar_ideias("Colé,", nome)
 

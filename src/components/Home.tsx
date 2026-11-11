@@ -34,7 +34,7 @@ armengue saudar(nome) {
 
 paletada i de 1 daqui_pra visitantes {
   possa_ser (i mermo 2) {
-    trocar_ideias(saudar("meu rei"))
+    trocar_ideias(saudar("olá"))
   } lá_ele {
     trocar_ideias("oi")
   }
@@ -515,7 +515,7 @@ export default function Home() {
           gap={4}
         >
           <Heading as="h2" fontSize={{ base: "2xl", md: "4xl" }}>
-            Bora programar, meu rei?
+            Bora programar?
           </Heading>
           <Text maxW="480px">
             Escreva seu primeiro .oxe e veja o JavaScript sair na hora.
